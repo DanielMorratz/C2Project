@@ -1,4 +1,4 @@
-pageextension 50102 "CCP Extension" extends "Customer Card"
+pageextension 50146 "CCP Extension" extends "Customer Card"
 {
     layout
     {

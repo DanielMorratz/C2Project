@@ -1,4 +1,4 @@
-pageextension 50103 "Sales Order Ext" extends "Sales Order"
+pageextension 50141 "Sales Order Ext" extends "Sales Order"
 {
     layout
     {
@@ -11,7 +11,6 @@ pageextension 50103 "Sales Order Ext" extends "Sales Order"
                 SubPageLink = "Item No." = FIELD("No.");
                 ApplicationArea = All;
             }
-
         }
     }
 

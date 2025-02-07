@@ -1,4 +1,4 @@
-page 50101 "SOL Sales Price"
+page 50140 "SOL Sales Price"
 {
     PageType = ListPart;
     ApplicationArea = All;
@@ -32,21 +32,6 @@ page 50101 "SOL Sales Price"
                     ApplicationArea = All;
                 }
 
-            }
-        }
-    }
-
-    actions
-    {
-        area(Processing)
-        {
-            action(ActionName)
-            {
-
-                trigger OnAction()
-                begin
-
-                end;
             }
         }
     }

@@ -1,4 +1,4 @@
-pageextension 50101 "CLP Extension" extends "Customer List"
+pageextension 50144 "CLP Extension" extends "Customer List"
 {
     layout
     {

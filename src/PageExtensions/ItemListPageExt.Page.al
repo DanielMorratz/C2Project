@@ -1,4 +1,4 @@
-pageextension 50104 "ILP Extension" extends "Item List"
+pageextension 50142 "ILP Extension" extends "Item List"
 {
     layout
     {

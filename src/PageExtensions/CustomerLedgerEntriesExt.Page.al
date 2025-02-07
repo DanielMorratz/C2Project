@@ -1,4 +1,4 @@
-pageextension 50100 "CLE Extension" extends "Customer Ledger Entries"
+pageextension 50145 "CLE Extension" extends "Customer Ledger Entries"
 {
     layout
     {

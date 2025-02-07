@@ -1,4 +1,4 @@
-pageextension 50105 "ICP Extension" extends "Item Card"
+pageextension 50143 "ICP Extension" extends "Item Card"
 {
     layout
     {
